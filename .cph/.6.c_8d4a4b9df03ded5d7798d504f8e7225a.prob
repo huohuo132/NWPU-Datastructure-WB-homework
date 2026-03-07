@@ -1,0 +1,1 @@
+{"name":"Local: 6","url":"c:\\Users\\ASUS\\Desktop\\做作业\\6.c","tests":[{"id":1772801788555,"input":"7 1\na b c d e f g\nd","output":"d a b c e f g"},{"id":1772803642225,"input":"6 4\na b d e f r\nr r a b","output":"r a b d e f"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\做作业\\6.c","group":"local","local":true}
